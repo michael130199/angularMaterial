@@ -1,0 +1,17 @@
+main {
+    width: 100%;
+    padding-top: 2rem;
+    text-align: center;
+    background-color: #dedbdf;
+}
+
+.card-search{
+    width: 35%;
+    margin: auto;
+    display: block;
+    margin-top: 16px;
+}
+
+.button-save, .input-style{
+    width: 90%;
+}
